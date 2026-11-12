@@ -3,3 +3,5 @@ node_modules/
 .DS_Store
 Thumbs.db
 npm-debug.log*
+**/PlaceholderGuard-0.2.0
+

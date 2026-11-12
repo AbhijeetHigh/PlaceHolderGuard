@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 2,
+  "placeholders": [
+    {
+      "assetId": "sample-gameobject-id",
+      "displayName": "Temporary NPC",
+      "assetType": "Model",
+      "targetKind": "gameObject",
+      "createdAtUtc": "2026-11-07T00:00:00.0000000Z",
+      "updatedAtUtc": "2026-11-07T00:00:00.0000000Z",
+      "sceneOrPrefab": "Assets/Scenes/Main.unity",
+      "gameObjectPath": "Environment/Temporary NPC",
+      "reason": "Temporary blockout character",
+      "replacementAssetPath": "Assets/ProductionAssets/NPC.prefab",
+      "replacementStatus": "linked",
+      "exemptFromBuildBlock": false,
+      "exemptionReason": ""
+    }
+  ],
+  "suggestions": [],
+  "history": []
+}
