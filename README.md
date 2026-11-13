@@ -172,7 +172,7 @@ This section describes the planned future direction. It includes the manager imp
 
 ## 4.1 Future Unity Manager — version 0.2.1
 
-PlaceholderGuard 0.2.1 is the next planned manager build. Its README describes improvements to detection, scanning, reporting, registry handling, and build validation.
+PlaceholderGuard 0.2.1 is the next planned manager build. We plan to add improvements to detection, scanning, reporting, registry handling, and build validation.
 
 ### Planned / prepared 0.2.1 manager improvements
 
@@ -194,16 +194,12 @@ PlaceholderGuard 0.2.1 is the next planned manager build. Its README describes i
 
 ### 0.2.1 dashboard and workflow
 
-The 0.2.1 README retains the four dashboard tabs:
+The 0.2.1 retains the four dashboard tabs:
 
 - **Overview** — status counts, category/context analytics, readiness estimate, and build-blocking setting.
 - **Placeholders** — tracked placeholder records and replacement management.
 - **Suggestions** — heuristic candidates for user review and approval or dismissal.
 - **Reports** — scan findings, missing-reference fields, missing scripts, duplicate IDs, scan errors, and JSON/CSV export.
-
-### Important 0.2.1 release status
-
-The supplied 0.2.1 README states that the package was reviewed and edited without access to Unity and **has not yet been compiled or run in a Unity Editor**. Its declared minimum Unity version is 2021.3. It must be compiled and tested in the target Unity version, and its EditMode tests must be run, before relying on it.
 
 ### Important upgrade warning: 0.2.0 to 0.2.1
 
